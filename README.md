@@ -2,12 +2,12 @@
 
 Chapter One 
 
-Output: https://rocky-fortress-16290.herokuapp.com/
+Output: https://peterchan127-rails-hello.herokuapp.com/
 
 Chapter Two
 
-Output: https://sheltered-wildwood-69757.herokuapp.com/
+Output: https://peterchan127-attendance-taker.herokuapp.com/
 
-Chapter Three
+Chapter Three to Eight
 
-Output: https://radiant-ocean-69782.herokuapp.com/
+Output: https://warm-dawn-26594.herokuapp.com/
