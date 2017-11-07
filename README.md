@@ -8,7 +8,7 @@ Chapter Two
 
 Output: https://peterchan127-attendance-taker.herokuapp.com/
 
-Chapter Three to Nine
+Chapter Three to Ten
 
 Output: https://warm-dawn-26594.herokuapp.com/
 
